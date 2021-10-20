@@ -1,0 +1,45 @@
+body {background: black;
+
+
+}
+.container{
+background-color: aliceblue;
+width: 550px;
+margin-left: 650px;
+height: 700px;
+
+
+}
+.fa-ellipsis-v{
+    float: right;
+    margin-top: 10px;
+}
+img {
+width: 550px;
+height: 400px;
+margin: 0  ;
+
+}
+.fa-bookmark-o {
+float: right;
+margin-top: -20px;
+margin-right: 5px;
+
+}
+p {
+    font-size: 15px;
+}
+
+
+.classs {
+
+margin-left: 9px;
+margin-top: -9px;
+}
+.instagramTop {
+    margin: 8px;
+    font-size: 18px;
+}
+.fa-comment-o,.fa-heart-o{
+    margin: 2px
+}
