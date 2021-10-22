@@ -22,24 +22,23 @@ margin: 0  ;
 }
 .fa-bookmark-o {
 float: right;
-margin-top: -20px;
-margin-right: 5px;
-
 }
 p {
     font-size: 15px;
 }
-
-
-.classs {
-
-margin-left: 9px;
-margin-top: -9px;
-}
 .instagramTop {
-    margin: 8px;
+    margin: 10px;
+    margin-top: 50px;
     font-size: 18px;
+    padding: 10px;
 }
-.fa-comment-o,.fa-heart-o{
-    margin: 2px
+
+.joelFace{
+    margin-left: 10px;
+}
+.icons{
+    padding: 15px;
+}
+.fa-comment-o{
+    margin: 4px;
 }
